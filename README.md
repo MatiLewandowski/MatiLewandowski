@@ -9,4 +9,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... whatever you want!
 - 📫 How to reach me: ... [Linkedin Profile](https://www.linkedin.com/in/mateusz-lewandowski-79599a13b/)
 - ⚡ Interests: ... Sport, e-sport, travelling.
--->
