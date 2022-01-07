@@ -3,7 +3,7 @@ My name is Mateusz Lewandowski and I'm currently working for Wartsila as an Auto
 
 
 - 🔭 I’m currently working on ... own projects.
-- 🌱 I’m currently learning ... python (tensorflow,pandas), SQL, GIT
+- 🌱 I’m currently learning ... python (numpy,pandas), GIT & SQL
 - 👯 I’m looking to collaborate on ... anything
 - 💬 Ask me about ... whatever you want!
 - 📫 How to reach me: ... [Linkedin Profile](https://www.linkedin.com/in/mateusz-lewandowski-79599a13b/)
